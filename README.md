@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 🔭 I’m currently working on medical image analysis\
-🌱 I’m currently learning front-end development and design
-📫 How to reach me: tsep01@proton.me
+🌱 I’m currently learning front-end development and design\
+📫 How to reach me: tsep01@proton.me\
 ⚡ Fun fact: My favorite videogame is MGS2
 <!--
 **choom1984/choom1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
