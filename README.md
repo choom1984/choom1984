@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭 I’m currently working on medical image analysis
+🔭 I’m currently working on medical image analysis\
 🌱 I’m currently learning front-end development and design
 📫 How to reach me: tsep01@proton.me
 ⚡ Fun fact: My favorite videogame is MGS2
